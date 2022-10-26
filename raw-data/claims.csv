@@ -1,4 +1,4 @@
-Claim ID,Time to Close,Claim Amount,Amount Paid,Location,Individuals on Claim,Linked Cases,Cause
+claim_id,time_to_close,claim_amount,amount_paid,location,individuals_on_claim,linked_cases,cause
 0000000-00.2010.0.00.0094,2082,"R$50,000.00",34297.47,RECIFE,2,FALSE,
 0000000-00.2011.0.00.0086,3591,"R$180,000.00",56383.54,SAO LUIS,7,FALSE,
 0000000-00.2012.0.00.0092,2997,"R$70,000.00",12366.76,SAO LUIS,3,FALSE,vegetables

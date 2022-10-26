@@ -1,0 +1,1 @@
+el campo de claim_amount fue creado como varchar debido a que tenia el valor de reales,

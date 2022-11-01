@@ -32,7 +32,7 @@ Finally, the 'time_to_close' field was analyzed, which, according to the given c
 As can be seen in the graph below, by taking advantage of the newly added 'year' field, we are able to understand how the data has changed over time. Therefore, it was possible to determine that, of all the claims in the database, **only 13% were generated in the first 6 years**. Further, this period is marked by the **highest number** of days for a claim to be closed.
 
 
-![line bar](2-variables.png)
+![line bar](https://github.com/eligiomorales/food-claims-datacamp/blob/main/images/line-chart.png)
 
 
 As a consequence of this particular characteristic of the data and the fact that there are variables not considered, such as an increase in sales, increase in number of outlets and improvements in the complaint management process, etc., it is understood that the analysis may be affected. Therefore, another assumption has been made, namely that only data **from 2016 to 2020 will be considered**.
@@ -41,7 +41,7 @@ As a consequence of this particular characteristic of the data and the fact that
 Based on the number of claims across locations, SAO LUIS has the **highest number of claims** with 28 claims, as well as the **highest average resolution rate** (898.4 days).Hence, an in-depth analysis of the operations of this location would be necessary in order to identify the possible causes of the high number of days required to close claims. However, it is recommended that **other variables be considered as well**. Due to the fact that other variables may be relevant to analyze, for instance conformity with  production processes per outlet, number of outlets and revenue per location.  
 
 
-![bar-charts](1-variables.png)
+![bar-charts](https://github.com/eligiomorales/food-claims-datacamp/blob/main/images/bar-chart.png)
 
 
 By contrast, FORTALEZA and NATAL have the **lowest number** of claims and the lowest average closure rate (see graph below). In this regard, it appears that they can be considered as best practices for improving processes in the other two locations as well.
